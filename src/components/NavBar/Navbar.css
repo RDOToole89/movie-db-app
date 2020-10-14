@@ -1,0 +1,17 @@
+.navbar {
+  padding: 1em;
+}
+
+.navbar-link {
+  color: black;
+}
+
+.navbar-a {
+  color: #333;
+}
+
+.active {
+  color: lightslategray;
+  font-weight: bold;
+  font-size: 1.1rem;
+}
