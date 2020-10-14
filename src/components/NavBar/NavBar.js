@@ -7,17 +7,17 @@ function NavBar() {
     <div>
       <ul className="navbar">
         <li className="navbar-link">
-          <NavLink exact={true} className="navbar-a" to="/home">
+          <NavLink className="navbar-a" to="/home">
             Home
           </NavLink>
         </li>
         <li className="navbar-link">
-          <NavLink exact={true} className="navbar-a" to="/about">
+          <NavLink className="navbar-a" to="/about">
             About
           </NavLink>
         </li>
         <li className="navbar-link">
-          <NavLink exact={true} className="navbar-a" to="/discovermovies">
+          <NavLink className="navbar-a" to="/discover">
             Discover Movies
           </NavLink>
         </li>
