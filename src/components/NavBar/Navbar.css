@@ -1,9 +1,11 @@
 .navbar {
   padding: 1em;
+  display: flex;
 }
 
 .navbar-link {
   color: black;
+  margin-left: 2em;
 }
 
 .navbar-a {
@@ -13,5 +15,4 @@
 .active {
   color: lightslategray;
   font-weight: bold;
-  font-size: 1.1rem;
 }
